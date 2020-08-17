@@ -24,7 +24,7 @@ jobs:
 
     # Runs a single command using the runners shell
     - name: Run a one-line script copy file
-      run: pwd
+      run: mkdir /opt/gitbook/pylearn
       
     - name: Run start gitbook-serve
       run: cd /home/slancer/gitbook/pylearn && gitbook-serve
