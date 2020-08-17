@@ -23,8 +23,8 @@ jobs:
     - uses: actions/checkout@v2
 
     # Runs a single command using the runners shell
-    - name: Run a one-line script copy file
-      run: mkdir /opt/gitbook/pylearn
+    - name: Run  copy file to gitbook/pylearn
+      run: \cp -r . /home/slancer/gitbook/pylearn
       
     - name: Run start gitbook-serve
       run: cd /home/slancer/gitbook/pylearn && gitbook-serve
