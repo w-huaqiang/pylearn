@@ -4,3 +4,6 @@
 * [感性认识](part1/README.md)
     * [快速尝试](part1/1-perceptual-knowledge.md)
 
+- 基础知识
+  - [装饰器](part2/decorator.md)
+
