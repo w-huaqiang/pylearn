@@ -7,7 +7,7 @@
 - [基础知识](part2/README.md)
   
   - [生成器](part2/generator.md)
-  - [迭代器](part2/generator.md)
+  - [迭代器](part2/iterator.md)
   
   - [装饰器](part2/decorator.md)
 
