@@ -5,7 +5,7 @@
     * [快速尝试](part1/1-perceptual-knowledge.md)
 
 - [基础知识](part2/README.md)
-  
+  - [内置函数](part2/buildInFunc.md)
   - [生成器](part2/generator.md)
   - [迭代器](part2/iterator.md)
   
